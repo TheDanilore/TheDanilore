@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 Sobre Mí
 <img align="right" alt="Coding" width="350" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
-- 🎓 <strong>Ingeniero de Sistemas e Informática</strong>
+- 🎓 <strong>Ingeniero de Sistemas e Informática</strong></br>
 - 🎥 <strong>Creador de contenido para desarrolladores:</strong> comparto tutoriales, experiencias y aprendizajes en mi canal.</br>
 - 💻 Más de <strong>5 años de experiencia</strong> en desarrollo de software.</br>
 - 🌟 Me especializo en: <strong>Frontend, Backend y DevOps.</strong></br>
