@@ -38,7 +38,7 @@
   <tr>
 <td align="center">
     <p align="center">
-     <a href="https://youtu.be/-ZBBQWGMOVM?si=S2VjeMnU-cm7apZ-" title="Go to Source">
+     <a href="https://youtu.be/-ZBBQWGMOVM?si=S2VjeMnU-cm7apZ-" target="blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/solicitud_almacen.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
@@ -48,7 +48,7 @@
 </td>
 <td align="center">
     <p align="center">
-     <a href="https://youtu.be/KJ8R9P3QpoY?si=KxTns5_P1epCJGie" title="Go to Source">
+     <a href="https://youtu.be/KJ8R9P3QpoY?si=KxTns5_P1epCJGie" target="blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/chatbot_watsonx.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
@@ -58,7 +58,7 @@
 </td>
 <td align="center">
     <p align="center">
-     <a href="https://youtu.be/KJ8R9P3QpoY?si=KxTns5_P1epCJGie" title="Go to Source">
+     <a href="https://youtu.be/KJ8R9P3QpoY?si=KxTns5_P1epCJGie" target="blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/bd_powerpivot.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
@@ -67,7 +67,7 @@
 </td>
 <td align="center">
     <p align="center">
-     <a href="https://youtu.be/NsiO4IfarHM?si=jUVGfGcoLlwnfsWw" title="Go to Source">
+     <a href="https://youtu.be/NsiO4IfarHM?si=jUVGfGcoLlwnfsWw" target="blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/ETL_visualstudio.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
