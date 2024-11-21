@@ -17,12 +17,13 @@
 
 
 ### 🧑‍💻 Sobre Mí
-<img align="right" alt="Coding" width="350" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
-- 🎓 <strong>Ingeniero de Sistemas e Informática</strong></br>
-- 🎥 <strong>Creador de contenido para desarrolladores:</strong> comparto tutoriales, experiencias y aprendizajes en mi canal.</br>
-- 💻 Más de <strong>5 años de experiencia</strong> en desarrollo de software.</br>
-- 🌟 Me especializo en: <strong>Frontend, Backend y DevOps.</strong></br>
-- 📫 Contacto: <strong>arteagagordillol@gmail.com</strong>
+<img align="right" alt="Coding" width="300" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+
+- 🎓 **Ingeniero de Sistemas e Informática**
+- 🎥 **Creador de contenido para desarrolladores:** comparto tutoriales, experiencias y aprendizajes en mi canal.
+- 💻 Más de **5 años de experiencia** en desarrollo de software.
+- 🌟 Me especializo en: **Frontend, Backend y DevOps**.
+- 📫 Contacto: **arteagagordillol@gmail.com**
 
 ---
 
