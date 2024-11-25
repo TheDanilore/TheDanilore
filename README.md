@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lorenzo Daniel / TheDanilore ✨</h1> 
-<p align="center">Desarrollador Web Full Stack | Apasionado por enseñar y aprender 🚀</p>
+<p align="center">Desarrollador Full Stack (Web & Móvil) | Especializado en Vue.js, Laravel y Flutter | Apasionado por crear soluciones innovadoras 🚀</p>
 
 <div align="center">
   <a href="https://www.youtube.com/@TheDanilore" target="_blank">
@@ -15,15 +15,14 @@
 
 ---
 
-
 ### 🧑‍💻 Sobre Mí
 <img align="right" alt="Coding" width="300" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
-- 🎓 **Ingeniero de Sistemas e Informática**
-- 🎥 **Creador de contenido para desarrolladores:** comparto tutoriales, experiencias y aprendizajes en mi canal.
-- 💻 Más de **5 años de experiencia** en desarrollo de software.
-- 🌟 Me especializo en: **Frontend, Backend y DevOps**.
-- 📫 Contacto: **arteagagordillol@gmail.com**
+- 🎓 **Ingeniero de Sistemas e Informática**  
+- 🎥 **Creador de contenido:** comparto tutoriales y experiencias sobre desarrollo de software en mi canal de YouTube.  
+- 💻 Más de **5 años de experiencia** en desarrollo de software web y móvil.  
+- 🌟 Me especializo en: **Frontend, Backend y DevOps** con tecnologías como Vue.js, Laravel y Flutter.  
+- 📫 Contacto: [arteagagordillol@gmail.com](mailto:arteagagordillol@gmail.com)
 
 ---
 
@@ -31,6 +30,12 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,cs,cpp,java,spring,scala,php,dart,flutter,vue,vuetify,pinia,laravel,vite,py,dotnet,css,html,js,nodejs,npm,mysql,sqlite,firebase,git,github,gcp,docker,gtk,materialui,codepen,postman,arduino,raspberrypi,eclipse,visualstudio,vscode,bootstrap,bash,linux,ubuntu,ps,autocad,figma" alt="Tecnologías conocidas">
 </div>
+
+---
+
+### 🌟 ¡Colaboremos!
+Estoy abierto a nuevas ideas y proyectos emocionantes.  
+Si quieres colaborar o simplemente aprender más sobre mis proyectos, ¡no dudes en contactarme!
 
 ---
 
