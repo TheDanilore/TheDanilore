@@ -2,7 +2,7 @@
 <p align="center">Desarrollador Full Stack (Web & Móvil) | Especializado en Vue.js, Laravel y Flutter | Apasionado por crear soluciones innovadoras 🚀</p>
 
 <div align="center">
-  <a href="https://www.youtube.com/@thedanilore1.0" target="_blank">
+  <a href="https://www.youtube.com/@TheDanilore1.0" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://www.linkedin.com/in/lorenzo-daniel-arteaga-gordillo-a01929307/" target="_blank">
