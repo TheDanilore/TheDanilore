@@ -2,7 +2,7 @@
 <p align="center">Desarrollador Full Stack (Web & Móvil) | Especializado en Vue.js, Laravel y Flutter | Apasionado por crear soluciones innovadoras 🚀</p>
 
 <div align="center">
-  <a href="https://www.youtube.com/@TheDanilore" target="_blank">
+  <a href="https://www.youtube.com/@thedanilore1.0" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://www.linkedin.com/in/lorenzo-daniel-arteaga-gordillo-a01929307/" target="_blank">
@@ -44,40 +44,40 @@ Si quieres colaborar o simplemente aprender más sobre mis proyectos, ¡no dudes
   <tr>
 <td align="center">
     <p align="center">
-     <a href="https://youtu.be/-ZBBQWGMOVM?si=S2VjeMnU-cm7apZ-" target="blank" title="Go to Source">
+     <a href="https://www.youtube.com/watch?v=qY0EfxUzy70&ab_channel=TheDanilore1.0" target="blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/solicitud_almacen.png"   alt="VIDEO" /></a>
-      </p>
+    </p>
     <p align="center">
-        <a href="https://youtu.be/-ZBBQWGMOVM?si=S2VjeMnU-cm7apZ-" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
+        <a href="https://www.youtube.com/watch?v=qY0EfxUzy70&ab_channel=TheDanilore1.0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
       <a href="https://github.com/TheDanilore/SolicitudAlmacen.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@danilore" /></a>
     </p>       
 </td>
 <td align="center">
     <p align="center">
-     <a href="https://youtu.be/KJ8R9P3QpoY?si=KxTns5_P1epCJGie" target="blank" title="Go to Source">
+     <a href="https://www.youtube.com/watch?v=Sq_N1_yPn9I&ab_channel=TheDanilore1.0" target="blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/chatbot_watsonx.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/KJ8R9P3QpoY?si=KxTns5_P1epCJGie" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
+        <a href="https://www.youtube.com/watch?v=Sq_N1_yPn9I&ab_channel=TheDanilore1.0e" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
       <a href="https://github.com/TheDanilore/EtiBot.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@danilore" /></a>
     </p>       
 </td>
 <td align="center">
     <p align="center">
-     <a href="https://youtu.be/KJ8R9P3QpoY?si=KxTns5_P1epCJGie" target="blank" title="Go to Source">
+     <a href="https://www.youtube.com/watch?v=3IhGWyxPxA8&ab_channel=TheDanilore1.0" target="blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/bd_powerpivot.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/KJ8R9P3QpoY?si=KxTns5_P1epCJGie" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
+        <a href="https://www.youtube.com/watch?v=3IhGWyxPxA8&ab_channel=TheDanilore1.0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
     </p>       
 </td>
 <td align="center">
     <p align="center">
-     <a href="https://youtu.be/NsiO4IfarHM?si=jUVGfGcoLlwnfsWw" target="blank" title="Go to Source">
+     <a href="https://www.youtube.com/watch?v=3p-SxZz3TZg&ab_channel=TheDanilore1.0" target="blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/ETL_visualstudio.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/NsiO4IfarHM?si=jUVGfGcoLlwnfsWw" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
+        <a href="https://www.youtube.com/watch?v=3p-SxZz3TZg&ab_channel=TheDanilore1.0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
     </p>       
 </td>
 
