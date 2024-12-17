@@ -20,7 +20,7 @@
 
 - 🎓 **Ingeniero de Sistemas e Informática**  
 - 🎥 **Creador de contenido:** comparto tutoriales y experiencias sobre desarrollo de software en mi canal de YouTube.  
-- 💻 Más de **5 años de experiencia** en desarrollo de software web y móvil.  
+- 💻 Más de **2 años de experiencia** en desarrollo de software web y móvil.  
 - 🌟 Me especializo en: **Frontend, Backend y DevOps** con tecnologías como Vue.js, Laravel y Flutter.  
 - 📫 Contacto: [arteagagordillol@gmail.com](mailto:arteagagordillol@gmail.com)
 
