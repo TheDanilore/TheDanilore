@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lorenzo Daniel / TheDanilore ✨</h1> 
-<p align="center">Desarrollador Full Stack (Web & Móvil) | Especializado en Vue.js, Laravel y Flutter | Apasionado por crear soluciones innovadoras 🚀</p>
+<p align="center">Desarrollador Full Stack (Web & Móvil) | Apasionado por crear soluciones innovadoras 🚀</p>
 
 <div align="center">
   <a href="https://www.youtube.com/@TheDanilore1.0" target="_blank">
@@ -21,7 +21,7 @@
 - 🎓 **Ingeniero de Sistemas e Informática**  
 - 🎥 **Creador de contenido:** comparto tutoriales y experiencias sobre desarrollo de software en mi canal de YouTube.  
 - 💻 Más de **3 años de experiencia** en desarrollo de software web y móvil.  
-- 🌟 Me especializo en: **Frontend, Backend y DevOps** con tecnologías como Vue.js, Laravel y Flutter.  
+- 🌟 Me especializo en: **Frontend, Backend y DevOps** con tecnologías como Vue.js, React, Express, Laravel, Java y Flutter.  
 - 📫 Contacto: [arteagagordillol@gmail.com](mailto:arteagagordillol@gmail.com)
 
 ---
