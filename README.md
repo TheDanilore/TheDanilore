@@ -45,7 +45,7 @@ Si quieres colaborar o simplemente aprender más sobre mis proyectos, ¡no dudes
     <td align="center">
       <p align="center">
        <a href="https://youtu.be/DfnC0RiEaDs?si=Rqzcy9zfBTRUnU9p" target="blank" title="Go to Source">
-          <img align="center" width=100% src="![image](https://github.com/user-attachments/assets/32b72790-9e42-4138-9d06-0042d325fb1a)"   alt="VIDEO" /></a>
+          <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/consultorio_odontologico.png"   alt="VIDEO" /></a>
       </p>
       <p align="center">
           <a href="https://youtu.be/DfnC0RiEaDs?si=Rqzcy9zfBTRUnU9p" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-  the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
