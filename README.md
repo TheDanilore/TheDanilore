@@ -28,7 +28,7 @@
 
 ### 🛠️ Tecnologías que manejo
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,androidstudio,kotlin,c,cs,cpp,java,spring,scala,php,dart,flutter,vue,vuetify,pinia,laravel,vite,py,dotnet,css,html,js,nodejs,npm,mysql,sqlite,firebase,git,github,gcp,docker,gtk,materialui,codepen,postman,arduino,raspberrypi,eclipse,visualstudio,vscode,bootstrap,bash,linux,ubuntu,ps,autocad,figma" alt="Tecnologías conocidas">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,cs,cpp,java,spring,scala,php,dart,flutter,vue,vuetify,pinia,laravel,vite,py,dotnet,css,html,js,nodejs,npm,mysql,sqlite,firebase,git,github,gcp,docker,gtk,materialui,codepen,postman,arduino,raspberrypi,eclipse,visualstudio,vscode,bootstrap,bash,linux,ubuntu,ps,autocad,figma" alt="Tecnologías conocidas">
 </div>
 
 ---
