@@ -42,23 +42,25 @@ Si quieres colaborar o simplemente aprender más sobre mis proyectos, ¡no dudes
 ### 🚀 Proyectos Destacados
 <table align="center">
   <tr>
-    <td align="center">
+<td align="center">
       <p align="center">
        <a href="https://youtu.be/DfnC0RiEaDs?si=Rqzcy9zfBTRUnU9p" target="blank" title="Go to Source">
           <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/consultorio_odontologico.png"   alt="VIDEO" /></a>
       </p>
       <p align="center">
-          <a href="https://youtu.be/DfnC0RiEaDs?si=Rqzcy9zfBTRUnU9p" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-  the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
+          <a href="https://youtu.be/DfnC0RiEaDs?si=Rqzcy9zfBTRUnU9p" target="blank">
+            <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"/></a>
         <a href="https://github.com/TheDanilore/ConsultorioOdontologicoBackend.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@danilore" /></a>
       </p>       
-    </td>
+</td>
 <td align="center">
     <p align="center">
      <a href="https://www.youtube.com/watch?v=qY0EfxUzy70&ab_channel=TheDanilore1.0" target="blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/solicitud_almacen.png"   alt="VIDEO" /></a>
     </p>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=qY0EfxUzy70&ab_channel=TheDanilore1.0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
+        <a href="https://www.youtube.com/watch?v=qY0EfxUzy70&ab_channel=TheDanilore1.0" target="blank">
+          <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"/></a>
       <a href="https://github.com/TheDanilore/SolicitudAlmacen.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@danilore" /></a>
     </p>       
 </td>
