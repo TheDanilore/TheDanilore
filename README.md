@@ -119,7 +119,6 @@ Si quieres colaborar o simplemente aprender más sobre mis proyectos, ¡no dudes
 </tr>
 </table>
 <!--- stats (end) -->
-
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -127,7 +126,5 @@ Si quieres colaborar o simplemente aprender más sobre mis proyectos, ¡no dudes
     </a>
 </div>
 <!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
