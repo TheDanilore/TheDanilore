@@ -21,14 +21,14 @@
 - 🎓 **Ingeniero de Sistemas e Informática**  
 - 🎥 **Creador de contenido:** comparto tutoriales y experiencias sobre desarrollo de software en mi canal de YouTube.  
 - 💻 Más de **4 años de experiencia** en desarrollo de software escritorio, web y móvil.  
-- 🌟 Me especializo en: **Frontend, Backend y DevOps** con tecnologías como Spring Boot, Vue.js, React, Express, Laravel y Flutter.  
+- 🌟 Me especializo en: **Frontend, Backend y DevOps** con tecnologías como Spring Boot, Vue.js, React, Express, Laravel, Flutter, WordPress.  
 - 📫 Contacto: [arteagagordillol@gmail.com](mailto:arteagagordillol@gmail.com)
 
 ---
 
 ### 🛠️ Tecnologías que manejo
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,cs,cpp,java,spring,scala,php,dart,flutter,vue,vuetify,pinia,laravel,vite,py,dotnet,css,html,js,nodejs,npm,mysql,sqlite,firebase,git,github,gcp,docker,gtk,materialui,codepen,postman,arduino,raspberrypi,eclipse,visualstudio,vscode,bootstrap,bash,linux,ubuntu,ps,autocad,figma" alt="Tecnologías conocidas">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,html,js,css,vue,vuetify,pinia,laravel,vite,nodejs,python,django,npm,mysql,sqlite,git,github,docker,postman,arduino,raspberrypi,androidstudio,kotlin,c,cs,cpp,dart,flutter,firebase,dotnet,gcp,materialui,visualstudio,vscode,bootstrap,bash,linux,ubuntu,ps,autocad,figma,wordpress" alt="Tecnologías conocidas">
 </div>
 
 ---
