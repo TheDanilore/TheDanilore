@@ -21,7 +21,7 @@
 - 🎓 **Ingeniero de Sistemas e Informática**  
 - 🎥 **Creador de contenido:** comparto tutoriales y experiencias sobre desarrollo de software en mi canal de YouTube.  
 - 💻 Más de **4 años de experiencia** en desarrollo de software escritorio, web y móvil.  
-- 🌟 Me especializo en: **Frontend, Backend y DevOps** con tecnologías como Spring Boot, Vue.js, React, Express, Laravel, Flutter, WordPress.  
+- 🌟 Me especializo en: **Frontend, Backend y CRM** con tecnologías como Spring Boot, Vue.js, React, Express, Laravel, Flutter, WordPress, Salesforce, Odoo.  
 - 📫 Contacto: [arteagagordillol@gmail.com](mailto:arteagagordillol@gmail.com)
 
 ---
