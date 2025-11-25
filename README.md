@@ -84,14 +84,13 @@ Si quieres colaborar o simplemente aprender más sobre mis proyectos, ¡no dudes
   <tr>
     <td align="center">
       <p align="center">
-       <a href="https://www.youtube.com/watch?v=VT8QaEW1TrQ&t=1s" target="blank" title="Go to Source">
+       <a href="https://youtu.be/VT8QaEW1TrQ?si=MkTJqiZSdaF5UsH2" target="blank" title="Go to Source">
           <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/avance-danilore_one.png" alt="VIDEO" /></a>
        </a>
       </p>
       <p align="center">
-          <a href="https://youtu.be/DfnC0RiEaDs?si=Rqzcy9zfBTRUnU9p" target="blank">
+          <a href="https://youtu.be/VT8QaEW1TrQ?si=MkTJqiZSdaF5UsH2" target="blank">
             <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"/></a>
-        <a href="https://github.com/TheDanilore/ConsultorioOdontologicoBackend.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@danilore" /></a>
       </p>       
 </td>
 <td align="center">
@@ -124,15 +123,6 @@ Si quieres colaborar o simplemente aprender más sobre mis proyectos, ¡no dudes
     <p align="center">
         <a href="https://www.youtube.com/watch?v=Sq_N1_yPn9I&ab_channel=TheDanilore1.0e" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
       <a href="https://github.com/TheDanilore/EtiBot.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@danilore" /></a>
-    </p>       
-</td>
-<td align="center">
-    <p align="center">
-     <a href="https://www.youtube.com/watch?v=3IhGWyxPxA8&ab_channel=TheDanilore1.0" target="blank" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/TheDanilore/TheDanilore/main/assets/bd_powerpivot.png"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://www.youtube.com/watch?v=3IhGWyxPxA8&ab_channel=TheDanilore1.0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@danilore"  /></a>
     </p>       
 </td>
 <td align="center">
