@@ -92,6 +92,7 @@ Arquitectura Monorepo orquestada en contenedores para análisis predictivo.
       <p align="center">
           <a href="https://youtu.be/VT8QaEW1TrQ?si=MkTJqiZSdaF5UsH2" target="blank">
             <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo"/></a>
+        <a href="https://github.com/TheDanilore/danilore-one" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" /></a>
       </p>        
 </td>
 <td align="center">
